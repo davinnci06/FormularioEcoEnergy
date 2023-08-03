@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FormularioEcoEnergy</string>
+    <string name="header">Eco Energy</string>
+    <string name="envForm">Enviar Formulario</string>
+</resources>

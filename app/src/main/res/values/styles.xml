@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="estiloText">
+        <item name="android:textSize">44sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:fontFamily">serif-monospace</item>
+        <item name="android:background">#0A1560</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="sugerenciaText">
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColorHint">#784678</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>
